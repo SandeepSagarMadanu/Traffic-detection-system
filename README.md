@@ -83,6 +83,6 @@ Here’s a sample output where drowsiness is detected in real-time with EAR and 
 
 ### 🧑‍💻 Author
 
-M.Sandeep Sagar
-www.linkedin.com/in/madanu-sandeep-sagar
-SandeepSagarMadanu(github)
+* M.Sandeep Sagar
+* www.linkedin.com/in/madanu-sandeep-sagar
+* SandeepSagarMadanu(github)
